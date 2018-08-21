@@ -5,7 +5,7 @@ layout: home
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-1">
     <ul class="contact-list">
-        <li><b>Prof. Tim Wood</b></li>
+        <li><a href="https://faculty.cs.gwu.edu/timwood/"><b>Prof. Tim Wood</b></a></li>
         <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
         <li>Office Hours: TBD, SEH 4580</li>
         <li>Class: Fridays 12:45-3:15PM in 1776 G, C-103</li>
@@ -22,7 +22,7 @@ layout: home
 
 
 ## Announcements ##
-- This website is under construction.
+- This website is under construction. See the [Syllabus](syllabus/) for more info.
 
 ## Schedule  ##
 
