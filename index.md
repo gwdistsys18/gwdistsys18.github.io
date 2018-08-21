@@ -8,21 +8,17 @@ layout: home
         <li><b>Prof. Tim Wood</b></li>
         <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
         <li>Office Hours: TBD, SEH 4580</li>
-        <li>Class: Wednesdays 3:30-6PM in Tompkins 405</li>
+        <li>Class: Fridays 12:45-3:15PM in 1776 G, C-103</li>
     </ul>
 </div>
-<div class="footer-col two-col-2">
-    <ul class="contact-list">
-        <li>TBD</li>
-        <li><a href="mailto:">TBD</a></li>
-        <li>Office Hours: TBD</li>
-        <li>Labs: Mondays 2:10-3:20 and 9-10:10AM in SEH 4040</li>
-    </ul>
-    </div>
 </div></div>
 
 
-> In this course, students will learn how to write object-oriented code using Java. Concepts will focus on object-oriented thinking, software composition, inheritance and polymorphism, and design principles. Programming techniques, assignments and lab exercises will focus on Java, specifically, the language and its core libraries. The course will be conducted lab-style with a mix of lecture, lab assignments and projects. The course will also cover an elementary introduction to the C programming language.
+> This course will be an in-depth study of the algorithmic and implementation challenges in building large scale distributed applications. Topics include distributed coordination, scheduling, consistency issues, and fault tolerance algorithms. The course will cover how fundamental distributed systems concepts are applied to cloud computing environments. The course will mix algorithmic concepts and practical implementations built using Amazon's cloud services; substantial programming experience is required.
+>
+> Prerequisites: CSCI 6212 Design and Analysis of Algorithms, CSCI 3411 undergraduate Operating Systems.
+
+
 
 
 ## Announcements ##

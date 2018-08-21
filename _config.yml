@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Web site title"
+title: "CSCi 6421: Distributed Systems, Fall 2018"
 email: timwood@gwu.edu
 author: Timothy Wood
 description: > # this means to ignore newlines until "baseurl:"
-  Course description goes here.
+  CSCi 6421: Distributed Systems, Fall 2018.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://cs2113f18.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gwdistsys18.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  cs2113f18
+github_username:  gwdistsys18
 
 # destination: ./docs
 
@@ -35,7 +35,7 @@ plugins:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-- sample.md
+- syllabus.md
 
 
 # google_analytics: UA-3114962-4
