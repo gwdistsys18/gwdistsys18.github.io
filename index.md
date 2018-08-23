@@ -22,29 +22,22 @@ layout: home
 
 
 ## Announcements ##
-- This website is under construction. See the [Syllabus](syllabus/) for more info.
+ - This website is under construction. See the [Syllabus](syllabus/) for more info.
 
 ## Schedule  ##
 
 <div style="font-size:90%">
 
-| Week | Topic
 |:---  |:--- |
-| Week 1 |  |
-| Week 2 |  |
-| Week 3 |  |
-| Week 4 |  |
-| Week 5 |  |
-| Week 6 |  |
-| Week 7 |  |
-| Week 8 |  |
-| Week 9 |  |
-| Week 10 |  |
-| Week 11 |  |
-| Week 12 |  |
-| Week 13 |  |
-| Week 14 |  |
-| Week 15 |  |
-| Week 16 |  |
+| Topic 1 | Intro to Distributed Systems and the Cloud |
+| Topic 2 | Network Programming (Sockets) |
+| Topic 3 | Servers (EC2, VMs, Containers)  |
+| Topic 4 | Storage (S3, EBS) |
+| Topic 5 | Networks (SDN, NFV) |
+| Topic 6 | Scalable Web Services (nginx, memcache, ELB) |
+| Topic 9 | Edge and Serverless Computing (AWS Lambda) |
+| Topic 7 | Batched Big Data (Hadoop) |
+| Topic 8 | Streaming Big Data (Storm) |
+| Topic 10 | Fault Tolerance, Ordering, and Consistency  (DynamoDB) |
 
 </div>

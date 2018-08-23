@@ -22,17 +22,23 @@ By the end of this course, students will be able to:
 
 ### Workload and Grading  ###
 
-**Programming load:** The course will be programming-intensive. You should be prepared to spend a significant amount of time writing and designing software. You will need to use a wide range of languages - you should be very comfortable writing code in either: C, Java, or Python, and you should be prepared to learn the basics of all of the others. Finally, the course will make use of several cloud services that typically involve Linux - you should be familiar with the command line and basic Linux administration.
-
-**Approximate grading:**
- - 50% Programming Assignments (approximately 8)
- - 30% Midterm and Final Exams
+**Approximate grading: (subject to change)**
+ - 40% Programming Assignments (approximately 5)
  - 10% Quizzes (approximately 1 per week)
+ - 15% Midterm Exam
+ - 15% Final Project
+ - 10% Research Paper Report
  - 10% Class Participation
 
-Most weeks we will have a quiz. Some of these will simply be for attendance (i.e., you will still get full credit even if you answer all questions wrong), others will be graded normally.
+**Programming load:** The course will be programming-intensive. You will need to use a wide range of languages - you should be very comfortable writing code in either: C, Java, or Python, and you should be prepared to learn the basics of all of the others. The course will make use of several cloud services that typically involve Linux - you should be familiar with the command line and basic Linux administration.
 
-Class participation is a very important aspect of this class, and I will be keeping track of who speaks in class. If you are not asking or answering questions, then you will get a zero. There will be other options for participating online as well. If you are not participating in some way each week, then you should not expect to get an A in the course.
+**Quizzes and Exams:** Most weeks we will have a quiz. Some of these will simply be for attendance (i.e., you will still get full credit even if you answer all questions wrong), others will be graded normally. There will be a midterm exam on the principles of cloud and distributed systems.
+
+**Final project:** You will be required to design, implement, and evaluate the performance of a distributed application as your final project. Projects will be done individually or in small groups.
+
+**Research paper report:** You will need to write a report in the form of a blog post that presents an overview of a distributed systems research paper. This will give you practice reading a technical research paper and presenting its key ideas to a general audience.
+
+**Class participation:** Class participation is a very important aspect of this class, and I will be keeping track of who speaks in class. If you are not asking or answering questions, then you will get a zero. There will be other options for participating online as well. If you are not participating in some way each week, then you should not expect to get an A in the course.
 
 
 ### Course Policies  ###
