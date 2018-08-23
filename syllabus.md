@@ -38,7 +38,7 @@ By the end of this course, students will be able to:
 
 **Research paper report:** You will need to write a report in the form of a blog post that presents an overview of a distributed systems research paper. This will give you practice reading a technical research paper and presenting its key ideas to a general audience.
 
-**Class participation:** Class participation is a very important aspect of this class, and I will be keeping track of who speaks in class. If you are not asking or answering questions, then you will get a zero. There will be other options for participating online as well. If you are not participating in some way each week, then you should not expect to get an A in the course.
+**Class participation:** Class participation is a very important aspect of this class, and I will be keeping track of who speaks in class. If you are not asking or answering questions, then you will get a zero. There will be other options for participating online as well. If you are not participating online or in person each week, then you should not expect to get an A in the course.
 
 
 ### Course Policies  ###
