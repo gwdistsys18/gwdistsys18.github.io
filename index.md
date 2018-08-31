@@ -29,7 +29,7 @@ layout: home
 <div style="font-size:90%">
 
 |:---  |:--- |
-| Topic 1 | Intro to Distributed Systems and the Cloud |
+| Topic 1 | Intro to Distributed Systems and the Cloud - [Account Setup](accounts) |
 | Topic 2 | Network Programming (Sockets) |
 | Topic 3 | Servers (EC2, VMs, Containers)  |
 | Topic 4 | Storage (S3, EBS) |
