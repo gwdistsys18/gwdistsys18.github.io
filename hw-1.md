@@ -6,7 +6,7 @@ permalink: /hw-1/
 
 In this homework you will build the simplest type of distributed system---a client/server application. For simplicity we will run both the client and the server on the same computer: a "container" running on the CodeAnywhere web site.
 
-  1. [Setup accounts for Git and CodeAnywhere](/accounts/) - follow all steps carefully!
+  1. [Setup accounts for Git and CodeAnywhere](/accounts/) - follow all steps carefully! Learn the basics of Git and the Linux command line on your own. Familiarize yourself with the CodeAnywhere IDE.
   2. [Create your version of the homework git repository](https://classroom.github.com/a/Rf9JsXvi)
   3. Go to the repository created in step 2 and look at the README.md file. This has all the instructions for the assignment.
 
