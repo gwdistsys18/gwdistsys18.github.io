@@ -29,7 +29,7 @@ layout: home
 <div style="font-size:90%">
 
 |:---  |:--- |
-| Topic 1 | Intro to Distributed Systems and the Cloud <br> [Account Setup](accounts) <br> [HW 1 - MsgBoard](hw-1/) *Due 9/7 10AM* |
+| Topic 1 | [Intro to Distributed Systems and the Cloud](slides/1-intro.pdf) <br> [Account Setup](accounts) <br> [HW 1 - MsgBoard](hw-1/) *Due 9/7 10AM* |
 | Topic 2 | Network Programming (Sockets) |
 | Topic 3 | Servers (EC2, VMs, Containers)  |
 | Topic 4 | Storage (S3, EBS) |
