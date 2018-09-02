@@ -4,6 +4,9 @@ title: "HW 1 - Message Board"
 permalink: /hw-1/
 ---
 
+> Updates:
+>  - 9/2/18: Fixed URLs in C links.
+
 In this homework you will build the simplest type of distributed system---a client/server application. For simplicity we will run both the client and the server on the same computer: a "container" running on the CodeAnywhere web site.
 
   1. [Setup accounts for Git and CodeAnywhere](/accounts/) - follow all steps carefully! Learn the basics of Git and the Linux command line on your own. Familiarize yourself with the CodeAnywhere IDE.
@@ -183,7 +186,7 @@ You should modify each of your programs so that they will accept command line ar
 ```
 python msgclient.py "user.somehost.com"  "my name" my message"
 java MsgClient "192.168.1.1" "Joe" "Hello World"
-./msg_client "twood02.koding.com" "Chen"  "this is my message"
+./msg_client "localhost" "Chen"  "this is my message"
 ```
 
 You can use any websites you like to learn how to use command line arguments in each of these languages.
