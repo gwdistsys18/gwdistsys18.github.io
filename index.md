@@ -22,6 +22,7 @@ layout: home
 
 
 ## Announcements ##
+ - Post questions to the [Piazza Message Board](https://piazza.com/gwu/fall2018/csci6421/home)
  - This website is under construction. See the [Syllabus](syllabus/) for more info.
 
 ## Schedule  ##
