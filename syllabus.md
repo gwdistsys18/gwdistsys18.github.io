@@ -40,7 +40,7 @@ By the end of this course, students will be able to:
 
 **Class participation:** Class participation is a very important aspect of this class, and I will be keeping track of who speaks in class. If you are not asking or answering questions, then you will get a zero. There will be other options for participating online as well. If you are not participating online or in person each week, then you should not expect to get an A in the course.
 
-To get full credit for participation, in each 3 week period you must participate at least twice in one of the following ways:
+To get full credit for participation, in each 2 week period you must participate at least once in one of the following ways:
  - Ask or answer a question in class
  - Ask or answer a question on piazza
  - Attend office hours with the professor
