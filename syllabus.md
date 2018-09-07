@@ -4,11 +4,11 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-**Instructor:** [Prof. Tim Wood](:)
+**Instructor:** [Prof. Tim Wood](https://faculty.cs.gwu.edu/timwood)
 **Email:** [timwood@gwu.edu](mailto:timwood@gwu.edu)
 **Prerequisites:** CSCI 6212 Design and Analysis of Algorithms, CSCI 3411 undergraduate Operating Systems.
 **Time/Place:** Fridays 12:45-3:15PM in 1776 G, C-103
-**Office Hours:** TBD
+**Office Hours:** Arranged by email
 
 ### Course Description and Learning Outcomes  ###
 
@@ -40,18 +40,24 @@ By the end of this course, students will be able to:
 
 **Class participation:** Class participation is a very important aspect of this class, and I will be keeping track of who speaks in class. If you are not asking or answering questions, then you will get a zero. There will be other options for participating online as well. If you are not participating online or in person each week, then you should not expect to get an A in the course.
 
+To get full credit for participation, in each 3 week period you must participate 2 times in one of the following ways:
+ - Ask or answer a question in class
+ - Ask or answer a question on piazza
+ - Attend office hours with the professor
+
+
 
 ### Course Policies  ###
 
 > **If you have a disability that may effect your participation in this course and wish to discuss academic accommodations, please contact me as soon as possible.**
 
 **Late work policy:**
-  * TBD
+  * Late work will lose 10% per day late.
   * If you have been ill and have a doctor's certificate to prove it, you will be eligible to take a missed quiz, provided you submit this certificate (during my office hours) reasonably soon after recovering from the affliction. Significant illnesses may be grounds for delayed assignment or project submission, but you should email me before the deadline if physically possible.
 
 **Email policy:** You can send email to my GW email address. I will answer most class email during specific times set aside during the week for this purpose - so do not expect an instantaneous response. Since this is an advanced class, **you may not perform "debugging by email"**. That is, do not send me code snippets and ask me to identify the problem. If you want me to look at your code, you should have a specific question in mind (not just "it's broken, why?"). Bringing code to my office hours is far more effective than sending it to me via email.
 
-**Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you provide a note from a doctor.  Otherwise, use a late pass.
+**Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you provide a note from a doctor. 
 
 **Academic Integrity policy:** It is very important in this course (and in life), that your work be your own. These guidelines will help you achieve that.
 

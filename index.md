@@ -7,7 +7,7 @@ layout: home
     <ul class="contact-list">
         <li><a href="https://faculty.cs.gwu.edu/timwood/"><b>Prof. Tim Wood</b></a></li>
         <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
-        <li>Office Hours: TBD, SEH 4580</li>
+        <li>Office Hours: By appointment, SEH 4580</li>
         <li>Class: Fridays 12:45-3:15PM in 1776 G, C-103</li>
     </ul>
 </div>
@@ -31,7 +31,7 @@ layout: home
 
 |:---  |:--- |
 | Topic 1 | [Intro to Distributed Systems and the Cloud](slides/1-intro.pdf) <br> [Account Setup](accounts) <br> [HW 1 - MsgBoard](hw-1/) *Due 9/7 10AM* |
-| Topic 2 | Network Programming (Sockets) |
+| Topic 2 | Network Programming (Sockets) <br><a href="https://goo.gl/forms/aBk9iKWmvj0tCPpL2">Account Info Quiz</a> |
 | Topic 3 | Servers (EC2, VMs, Containers)  |
 | Topic 4 | Storage (S3, EBS) |
 | Topic 5 | Networks (SDN, NFV) |
