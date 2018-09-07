@@ -31,7 +31,7 @@ layout: home
 
 |:---  |:--- |
 | Topic 1 | [Intro to Distributed Systems and the Cloud](slides/1-intro.pdf) <br> [Account Setup](accounts) <br> [HW 1 - MsgBoard](hw-1/) *Due 9/7 10AM* |
-| Topic 2 | Network Programming (Sockets) <br><a href="https://goo.gl/forms/aBk9iKWmvj0tCPpL2">Account Info Quiz</a> |
+| Topic 2 | [Network Programming (Sockets)](slides/2-internet.pdf) <br><a href="https://goo.gl/forms/aBk9iKWmvj0tCPpL2">Account Info Quiz</a> |
 | Topic 3 | Servers (EC2, VMs, Containers)  |
 | Topic 4 | Storage (S3, EBS) |
 | Topic 5 | Networks (SDN, NFV) |
