@@ -30,8 +30,8 @@ layout: home
 <div style="font-size:90%">
 
 |:---  |:--- |
-| Topic 1 | [Intro to Distributed Systems and the Cloud](slides/1-intro.pdf) <br> [Account Setup](accounts) <br> [HW 1 - MsgBoard](hw-1/) *Due 9/7 10AM* |
-| Topic 2 | [Network Programming (Sockets)](slides/2-internet.pdf) <br><a href="https://goo.gl/forms/aBk9iKWmvj0tCPpL2">Account Info Quiz</a> |
+| Topic 1 | [Intro to Distributed Systems and the Cloud](slides/1-intro.pdf) <br> [Account Setup](accounts) <br> [HW 1 - MsgBoard](hw-1/): *Due 9/7 10AM* |
+| Topic 2 | [Network Programming (Sockets)](slides/2-internet.pdf) <br><a href="https://goo.gl/forms/aBk9iKWmvj0tCPpL2">Account Info Quiz</a> <br> [HW 2 - KV Store](hw-2/): *Groups must be formed by 9/14, Due 9/21 10AM* |
 | Topic 3 | Servers (EC2, VMs, Containers)  |
 | Topic 4 | Storage (S3, EBS) |
 | Topic 5 | Networks (SDN, NFV) |
