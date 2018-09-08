@@ -6,7 +6,7 @@ permalink: /hw-2/
 
 > More details about the assignment submission requirements will be posted later.
 >
-> Groups must be formed by Friday 9/14, end of class (but you are strongly encouraged to do this earlier)
+> [Groups must be formed](https://goo.gl/forms/DZfJWKGZW5Z5x3kw1) by Friday 9/14, end of class (but you are strongly encouraged to do this earlier)
 >
 > **Due:** Friday 9/21 at 10AM
 
@@ -59,4 +59,4 @@ You must measure the throughput (number of requests per second) and latency (mil
 In addition to testing the throughput and latency of SET and GET requests, you should also evaluate the extra feature(s) that you added.  For example, if your server supports large value sizes, then you should evaluate how the size of the value affects latency and throughput.
 
 ## Group Formation
-You can use Piazza to communicate with other classmates who are looking for a team. Once you have determined all the members of your team, use this [GitHub Assignment](https://classroom.github.com/g/0qCvkCHk) to create your team's repository. The first member of the group will have to create the team by assigning it a name. **Be sure to only join the team with the name of your group.**
+You can use Piazza to communicate with other classmates who are looking for a team. Once you have determined all the members of your team, use this [GitHub Assignment](https://classroom.github.com/g/0qCvkCHk) to create your team's repository. The first member of the group will have to create the team by assigning it a name. **Be sure to only join the team with the name of your group.** Then you must [complete this form](https://goo.gl/forms/DZfJWKGZW5Z5x3kw1) to provide the instructor with a list of all team members and the language you plan to use.
