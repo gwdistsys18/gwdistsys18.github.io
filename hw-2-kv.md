@@ -51,7 +51,9 @@ Possible extra features include:
  - Support a **MULTISET** operation that allows several key/value pairs to be added in a single connection
  - Support a **MULTIGET** operation that allows several key/value pairs to be retrieved in a single connection
  - Support for large value sizes
+ - Support for both TCP and UDP
  - Something else (you must post your idea to Piazza to get approval)
+
 
 ## Performance Evaluation
 You must measure the throughput (number of requests per second) and latency (milliseconds from when socket opens until it is closed) that your server can support. You may want to create a different client program to do this test. Your performance testing client should measure the performance of at least 10,000 operations made to the server.
