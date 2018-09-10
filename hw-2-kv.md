@@ -32,13 +32,18 @@ You should precisely describe all of the messages in your protocol in your `READ
 ## The Client and Server
 You can write your client and server in C, Python, or Java. You must use the socket interface for communication.  If you use Java, you may use the server provided in [HW 1](/hw-1/) as a base.
 
-The **Server** should store keys and values in a data structure such as a hash table. You do not need to write your own code for the hash table. For the basic server implementation you do not need to do anything complicated for memory management (i.e., you do not need to implement your own eviction policy and can assume that your KV store will not run out of space). The server does not need to support parallelism (multi-threading)
+The **Server** should store keys and values in a data structure such as a hash table. You do not need to write your own code for the hash table. For the basic server implementation you do not need to do anything complicated for memory management (i.e., you do not need to implement your own eviction policy and can assume that your KV store will not run out of space). The server does not need to support parallelism (multi-threading).
 
-The **Client** should be
-Each socket connection should issue a single request.
+The **Client** must accept command line arguments in this form (assuming a C implementation):
+```
+./client <server> <operation> <key> <value>
+```
+where `<server>` is the host name or IP of the server (possibly localhost for testing), `<operation>` can be (at least) `GET`, `SET`, or `STATS`, and `<key>` and `<value>` are strings used depending on whether it is a `GET` or `SET`. (The arguments should not include `<>` when run on the command line)
+
+Each client socket connection should issue a single request before closing.
 
 ## Extra Features
-Depending on your group size you will need to implement additional features to increase the complexity of your KV store. However, you cannot implement the same set of extra features as any other group.
+Depending on your group size you will need to implement additional features to increase the complexity of your KV store.
  - Groups with 1-2 members must implement 1 additional feature.
  - Groups with 3-4 members must implement 3 additional features.
 
@@ -52,6 +57,7 @@ Possible extra features include:
  - Support a **MULTIGET** operation that allows several key/value pairs to be retrieved in a single connection
  - Support for large value sizes
  - Support for both TCP and UDP
+ - Evaluation of the server with clients on at least 3 different machines spread across a WAN environment (they cannot all be on the GW network)
  - Something else (you must post your idea to Piazza to get approval)
 
 
