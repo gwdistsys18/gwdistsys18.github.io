@@ -42,6 +42,8 @@ where `<server>` is the host name or IP of the server (possibly localhost for te
 
 Each client socket connection should issue a single request before closing.
 
+You may use different languages for the client and server if you would like.
+
 ## Extra Features
 Depending on your group size you will need to implement additional features to increase the complexity of your KV store.
  - Groups with 1-2 members must implement 1 additional feature.
@@ -68,3 +70,10 @@ In addition to testing the throughput and latency of SET and GET requests, you s
 
 ## Group Formation
 You can use Piazza to communicate with other classmates who are looking for a team. Once you have determined all the members of your team, use this [GitHub Assignment](https://classroom.github.com/g/0qCvkCHk) to create your team's repository. The first member of the group will have to create the team by assigning it a name. **Be sure to only join the team with the name of your group.** Then you must [complete this form](https://goo.gl/forms/DZfJWKGZW5Z5x3kw1) to provide the instructor with a list of all team members and the language you plan to use.
+
+## Academic Integrity
+You must follow these rules for this assignment:
+ - You may *not* share code with students in different groups.
+ - You may *not* search for and copy key value store code from the internet
+ - You may *not* search for and copy highly related code on the internet, such as a multi-threaded server
+ - You *may* discuss your approach to doing performance evaluation with students in other groups
