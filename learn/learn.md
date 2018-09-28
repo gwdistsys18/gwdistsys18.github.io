@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mastery
+title: Practice
 permalink: /learn/
 ---
 
@@ -12,6 +12,7 @@ To really understand cloud computing you need hands-on practice using cloud serv
 
 In each topic you have the choice of attaining *Beginner* or *Intermediate* level mastery.
  - By **Sunday October 29th** you must attain Beginner level in at least two topics and Intermediate level in one topic
+ - Achieving Beginner level mastery should take 1-2 hours per area, while Intermediate level is likely to take 10+ hours.
 
 For each topic area you will need to do the following:
   - Maintain a Git repository that records your progress and notes as you go through the linked materials

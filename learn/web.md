@@ -4,7 +4,7 @@ title: Cloud Web Apps
 permalink: /learn/web/
 ---
 
-This topic area will provide a solid background in core cloud technologies such as VMs and storage systems. You will then use these technologies to build web applications using both traditional VM environments and serverless computing platforms. 
+This topic area will provide a solid background in core cloud technologies such as VMs and storage systems. You will then use these technologies to build web applications using both traditional VM environments and serverless computing platforms.
 
 > To achieve *Beginner Level* mastery of Cloud and Web Apps you must complete:
 
@@ -39,7 +39,7 @@ More Possibly Useful Content:
   - [AWS Tutorial: Increase the Availability of Your Application on Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html) - 45 min
   - [AWS Tutorial: Install a Wordpress Blog](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html) - 45 min
   - [QwikLab: Introduction to Amazon CloudFront](https://awseducate.qwiklabs.com/focuses/22?parent=catalog) - 35 min
-
+  - [QwikLab: Introduction to Amazon Elastic File System](https://awseducate.qwiklabs.com/focuses/24?parent=catalog)
 
 <!--
   Qwik Labs:
