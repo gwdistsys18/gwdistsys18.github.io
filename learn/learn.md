@@ -9,6 +9,7 @@ To really understand cloud computing you need hands-on practice using cloud serv
   - [Docker and Containers](/learn/docker/)
   - [Big Data and Machine Learning](/learn/bigdata/)
   - [Cloud Web Applications](/learn/web/)
+  - [SDN and NFV](/learn/sdnfv/)
 
 In each topic you have the choice of attaining *Beginner* or *Intermediate* level mastery.
  - By **Monday October 29th** you must attain Beginner/Intermediate level in a first topic and Beginner level in a second topic
