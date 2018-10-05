@@ -6,6 +6,8 @@ permalink: /learn/sdnfv/
 
 This topic area will teach you about the emerging networking technologies Software Defined Networking and Network Function Virtualization. You will learn how to manage a network using an SDN controller and how to build high performance network services with an NFV framework. Going in depth in this topic area will prepare you to contribute to the OpenNetVM NFV framework being built as an open source project here at GW.
 
+> ** This topic is subject to change! **
+
 Note: This topic area will be more research focused and less well defined than the others, plus it will take more time! The Beginner level only covers SDN, while the Intermediate level is focused on NFV.
 
 > To achieve *Beginner Level* mastery of SDN you must complete:
