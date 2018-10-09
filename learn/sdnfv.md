@@ -27,8 +27,9 @@ DPDK and OpenNetVM:
     - Do not mindlessly follow the instructions -- be sure you understand what is happening!
   - [Install DPDK](https://doc.dpdk.org/guides/linux_gsg/index.html) and run the `skeleton` sample application - 180 mins
     - [Read the Docs](https://doc.dpdk.org/guides/sample_app_ug/skeleton.html) to understand how it works
-  - Pick a section in the [Programmers Guide](https://doc.dpdk.org/guides/prog_guide/index.html) to learn about - 150 min
-    - You must pick a different section than other students - use Piazza to claim your section
-    - Write an explanation of the section you studied that would help a new user learn about it
   - [Install OpenNetVM](https://github.com/sdnfv/openNetVM/blob/develop/docs/Install.md) and run the Speed Tester and Bridge NFs - 120 min
+  - Performance Evaluation - this will be updated with more details later.
   - Complete one of the "Good First Issue" bugs/feature requests in the [Issue Tracker](https://github.com/sdnfv/openNetVM/issues) - 120 min
+
+More resources:
+  - DPDK [Programmers Guide](https://doc.dpdk.org/guides/prog_guide/index.html) 
