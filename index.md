@@ -33,9 +33,9 @@ layout: home
 |:---  |:--- |
 | Topic 1 | [Intro to Distributed Systems and the Cloud](slides/1-intro.pdf) <br> [Account Setup](accounts) <br> [HW 1 - MsgBoard](hw-1/): *Due 9/7 10AM* |
 | Topic 2 | [Network Programming (Sockets)](slides/2-internet.pdf) <br><a href="https://goo.gl/forms/aBk9iKWmvj0tCPpL2">Account Info Quiz</a> <br> [HW 2 - KV Store](hw-2/): *Groups must be formed by 9/14, Due 9/21 10AM* |
-| Topic 3 | [Servers (EC2, VMs, Containers)](slides/3-cloud-servers.pdf)  |
-| Topic 4 | [Networks (SDN, NFV)](slides/4-sdn-nfv.pdf) |
-| Topic 5 | Storage (S3, EBS) |
+| Topic 3 | [Servers and Virtualization (EC2, VMs, Containers)](slides/3-cloud-servers.pdf)  |
+| Topic 4 | [Networks and Distributed Control (SDN, NFV)](slides/4-sdn-nfv.pdf) |
+| Topic 5 | [Storage and Fault Tolerance (S3, EBS)](slides/5-storage-faults.pdf) |
 | Topic 6 | Scalable Web Services (nginx, memcache, ELB) |
 | Topic 9 | Edge and Serverless Computing (AWS Lambda) |
 | Topic 7 | Batched Big Data (Hadoop) |

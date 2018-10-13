@@ -22,13 +22,21 @@ By the end of this course, students will be able to:
 
 ### Workload and Grading  ###
 
-**Approximate grading: (subject to change)**
- - 40% Programming Assignments (approximately 5)
- - 10% Quizzes (approximately 1 per week)
- - 15% Midterm Exam
- - 15% Final Project
- - 10% Research Paper Report
- - 10% Class Participation
+**Updated grading:**
+  - 15% Programming Assignments
+  - 15% Midterm Exam
+  - 10% Class Participation
+  - 25% Practical Learning 1
+  - 25% Practical Learning 2 or Final Project
+  - 10% Technical Report
+
+**Old grading:**
+  - 40% Programming Assignments (approximately 5)
+  - 10% Quizzes (approximately 1 per week)
+  - 15% Midterm Exam
+  - 15% Final Project
+  - 10% Research Paper Report
+  - 10% Class Participation
 
 **Programming load:** The course will be programming-intensive. You will need to use a wide range of languages - you should be very comfortable writing code in either: C, Java, or Python, and you should be prepared to learn the basics of all of the others. The course will make use of several cloud services that typically involve Linux - you should be familiar with the command line and basic Linux administration.
 
@@ -36,7 +44,11 @@ By the end of this course, students will be able to:
 
 **Final project:** You will be required to design, implement, and evaluate the performance of a distributed application as your final project. Projects will be done individually or in small groups.
 
-**Research paper report:** You will need to write a report in the form of a blog post that presents an overview of a distributed systems research paper. This will give you practice reading a technical research paper and presenting its key ideas to a general audience.
+**Practical Learning:** You will need to follow a set of hands-on tutorials to build experience in a distributed systems area of your choice. For the second round of Practical learning you can choose to either learn about a different area, or complete an in-depth final project of your choice (subject to professor approval).
+
+**Technical Report:**  You will need to write a report in the form a a blog post that presents an overview of a distributed systems concept or tool. [Julia Evans' blog](https://jvns.ca/) has many excellent examples of short, technical articles designed to be educational. For example, see [How big can a packet get?](https://jvns.ca/blog/2017/02/07/mtu/) or [How I use Wireshark](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/).
+
+<del>**Research paper report:** You will need to write a report in the form of a blog post that presents an overview of a distributed systems research paper. This will give you practice reading a technical research paper and presenting its key ideas to a general audience.</del>
 
 **Class participation:** Class participation is a very important aspect of this class, and I will be keeping track of who speaks in class. If you are not asking or answering questions, then you will get a zero. There will be other options for participating online as well. If you are not participating online or in person each week, then you should not expect to get an A in the course.
 
@@ -45,7 +57,7 @@ To get full credit for participation, in each 2 week period you must participate
  - Ask or answer a question on piazza
  - Attend office hours with the professor
 
-**For the first 3 weeks 1 participation will be sufficient.** 
+**For the first 3 weeks 1 participation will be sufficient.**
 
 
 ### Course Policies  ###
