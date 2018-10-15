@@ -6,7 +6,8 @@ permalink: /learn/sdnfv/
 
 This topic area will teach you about the emerging networking technologies Software Defined Networking and Network Function Virtualization. You will learn how to manage a network using an SDN controller and how to build high performance network services with an NFV framework. Going in depth in this topic area will prepare you to contribute to the OpenNetVM NFV framework being built as an open source project here at GW.
 
-> ** This topic is subject to change! **
+> **This topic is subject to change!**
+> Updates: 10/15 -  Added CloudLab instructions
 
 Note: This topic area will be more research focused and less well defined than the others, plus it will take more time! The Beginner level only covers SDN, while the Intermediate level is focused on NFV.
 
@@ -22,14 +23,16 @@ The need for Fast I/O:
   - Video: Netmap - a framework for fast I/O: [Usenix Conference (30 min)](https://www.youtube.com/watch?v=la5kzNhqhGs) or [Google Tech Talk (60 min)](https://www.youtube.com/watch?v=SPtoXNW9yEQ) or [read the paper](https://www.usenix.org/system/files/conference/atc12/atc12-final186.pdf)
 
 DPDK and OpenNetVM:
-  - For these tasks you will need access to servers on [NSF CloudLab](https://cloudlab.us). Go to the website and create an account, listing "GWCloudLab" as the project you want to join. *I will need to approve your account before you can use it.*
+  - For these tasks you will need access to servers on [NSF CloudLab](https://cloudlab.us). Follow [these instructions](cloudlab.html) to setup your account and create an experiment.
   - To complete these tasks you will need to read through the [documentation for DPDK](https://doc.dpdk.org/guides/index.html). It provides a lot of information and much of it is very good. Nevertheless, it can be very overwhelming! You may have more success in this topic area if you work through this together with another student. You should also post to piazza about any questions you have.
     - Do not mindlessly follow the instructions -- be sure you understand what is happening!
   - [Install DPDK](https://doc.dpdk.org/guides/linux_gsg/index.html) and run the `skeleton` sample application - 180 mins
+    - If you are using the CloudLab profile linked in the instructions above, then DPDK is already installed and you just need to learn how to use it.
     - [Read the Docs](https://doc.dpdk.org/guides/sample_app_ug/skeleton.html) to understand how it works
   - [Install OpenNetVM](https://github.com/sdnfv/openNetVM/blob/develop/docs/Install.md) and run the Speed Tester and Bridge NFs - 120 min
+    - If you are using the CloudLab profile linked in the instructions above, then ONVM is already installed and you just need to learn how to use it.
   - Performance Evaluation - this will be updated with more details later.
   - Complete one of the "Good First Issue" bugs/feature requests in the [Issue Tracker](https://github.com/sdnfv/openNetVM/issues) - 120 min
 
 More resources:
-  - DPDK [Programmers Guide](https://doc.dpdk.org/guides/prog_guide/index.html) 
+  - DPDK [Programmers Guide](https://doc.dpdk.org/guides/prog_guide/index.html)
