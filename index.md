@@ -36,10 +36,10 @@ layout: home
 | Topic 3 | [Servers and Virtualization (EC2, VMs, Containers)](slides/3-cloud-servers.pdf)  |
 | Topic 4 | [Networks and Distributed Control (SDN, NFV)](slides/4-sdn-nfv.pdf) |
 | Topic 5 | [Storage and Fault Tolerance (S3, EBS)](slides/5-storage-faults.pdf) |
-| Topic 6 | Scalable Web Services (nginx, memcache, ELB) |
-| Topic 9 | Edge and Serverless Computing (AWS Lambda) |
-| Topic 7 | Batched Big Data (Hadoop) |
-| Topic 8 | Streaming Big Data (Storm) |
-| Topic 10 | Fault Tolerance, Ordering, and Consistency  (DynamoDB) |
+| Topic 6 | [Ordering, and Consistency  (DynamoDB, Riak)](slides/6-clocks.pdf)  <br> [Clocks Worksheet](slides/clock-worksheet.pdf)|
+| Topic 7 | Scalable Web Services (nginx, memcache, ELB) |
+| Topic 8 | Edge and Serverless Computing (AWS Lambda) |
+| Topic 9 | Batched Big Data (Hadoop) |
+| Topic 10 | Streaming Big Data (Storm) |
 
 </div>
