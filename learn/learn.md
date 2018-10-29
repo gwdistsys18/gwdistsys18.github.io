@@ -15,7 +15,7 @@ In each topic you have the choice of attaining *Beginner* or *Intermediate* leve
 
 *Practice Round 1:* By **Monday October 29th** you must attain Beginner + Intermediate level in a first topic and Beginner level in a second topic
 
-*Practice Round 2:* By **Sunday December 2nd** you must either: **1)** reach Beginner + Intermediate in two areas and Beginner in a third area (including what you did in Round 1), or **2)** complete a final project in an area of your choice (see details below)
+*Practice Round 2:* By **Sunday December 2nd** you must either: **1)** reach Beginner + Intermediate in two areas and Beginner in a third area (including what you did in Round 1), or **2)** complete a final project in an area of your choice ([see details here](project/))
 
 ---
 
@@ -28,12 +28,3 @@ To record your **Practice progress** you should:
 Your notes should be written in a way that both helps you remember what you learned, but also would help a new student to figure out the key points of each tutorial/video. Part of your grade will be based on how complete and nicely formatted your notes are. You should keep all of your documentation in Markdown syntax so they can be viewed through the github web interface, or (even better) you can use GitHub pages to turn those markdown files into a nice looking web page.
 
 Your fork of the repository will be public in your own GitHub account, so it is in your interest to make it look good!
-
----
-
-If you do a **Final project** you should:
-  - Pick a a project that involves a substantial programming component and include a measurement/cost study.  For example, you might build a simple web / database application spread across several AWS services, and then evaluate its performance with different EC2 instance types.
-  - Final projects can be completed in groups with 1-4 members.
-  - You must post a description of your project plan to Piazza for professor approval by **Wednesday October 31st.** If you plan to do a final project in the SDN/NFV area you should talk with the professor in advance.
-  - If you do your project in a team, then you must include a writeup in your readme of which student was responsible for each part of the project.
-  - You will need to demonstrate your project working to the professor before the end of the semester.

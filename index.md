@@ -22,6 +22,8 @@ layout: home
 
 
 ## Announcements ##
+ - Your second round of [Practice ](learn/) or your [Final Project](learn/project/) is *due Sunday December 2nd*.
+ - You must post your project proposal for approval to Piazza *before class on Friday November 2nd*.
  - Your first round of [Practice ](learn/) is *due Monday October 29th*.
  - Post questions to the [Piazza Message Board](https://piazza.com/gwu/fall2018/csci6421/home)
  - This website is under construction. See the [Syllabus](syllabus/) for more info.
