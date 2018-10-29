@@ -5,7 +5,7 @@ permalink: /learn/project/
 ---
 
 If you do a **Final project** you should:
-  - Pick a a project that involves a substantial programming component and include a measurement/cost study.  For example, you might build a simple web / database application spread across several AWS services, and then evaluate its performance with different EC2 instance types.
+  - Pick a a project that involves a substantial programming component and include a measurement/cost study.  Your project can either be a mini "startup" e.g., build an interesting tool or website, or it can be a "research" project. See examples below.
   - Final projects can be completed in groups with 1-4 members. *It is recommended that research projects be performed in groups, unless you are a PhD student already active on a related research project.*
   - You must post a description of your project plan to Piazza for professor approval by **Friday November 2nd before class.** If you plan to do a final project you are encouraged to meet with the professor in advance.
   - If you do your project in a team, then you must include a writeup in your readme of which student was responsible for each part of the project.
@@ -23,7 +23,7 @@ Sample Projects:
 ### "Research" Projects
 This type of project is more focused on answering a research question. Since you have limited time, you will want a narrow research problem, and most likely your focus will be on gathering preliminary data.  Some of these projects are ones which could turn into a semester long 3 credit Research course in the Spring if you do very well at them!
 
-Sample Cloud Projects:
+Sample Cloud Project:
   - **Coordinated container management:** Microservices are a popular way to break an application down into smaller components that are easier to scale up and down.  Microservices are often combined with a container management system such as Kubernetes. However, a problem with existing container management services is that they observe each container in isolation when trying to detect that they are overloaded. This can lead to problems such as scaling up one component, only for that to cause a different microservice component to become overloaded.  In this project you will explore ways to do *coordinated container management*.  To do this, you should:
     - Setup the environment: build a simple microservice application that allows you to setup a "chain" of services that send requests to each other. You may be able to find sample microservices to use as a template, or you might have to build your own. The service doesn't need to do anything useful - you just need a way to be able to deploy a configurable microservice with an adjustable number of services.
     - Setup a workload: deploy Kubernetes to manage your microservice.    You will need to find or design a workload creation tool that lets you create "bursts" of requests from new users. Measure the throughput and latency of the system when using the Kubernetes auto-scaling system.
