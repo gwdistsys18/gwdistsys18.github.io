@@ -22,6 +22,7 @@ layout: home
 
 
 ## Announcements ##
+ - [Attendance form](https://goo.gl/forms/RdGTgWfUSXKPzRzM2)
  - Your second round of [Practice ](learn/) or your [Final Project](learn/project/) is *due Sunday December 2nd*.
  - You must post your project proposal for approval to Piazza *before class on Friday November 2nd*.
  - Your first round of [Practice ](learn/) is *due Monday October 29th*.
