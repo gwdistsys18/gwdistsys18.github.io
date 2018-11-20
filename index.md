@@ -40,9 +40,8 @@ layout: home
 | Topic 4 | [Networks and Distributed Control (SDN, NFV)](slides/4-sdn-nfv.pdf) |
 | Topic 5 | [Storage and Fault Tolerance (S3, EBS)](slides/5-storage-faults.pdf) |
 | Topic 6 | [Ordering, and Consistency  (DynamoDB, Riak)](slides/6-clocks.pdf)  <br> [Clocks Worksheet](slides/clock-worksheet.pdf)|
-| Topic 7 | [Scalable Web Services (nginx, memcached, microservices, Lambdas)](slides/7-web-scale.pdf) |
-| Topic 8 | Edge and Serverless Computing (AWS Lambda) |
-| Topic 9 | Batched Big Data (Hadoop) |
-| Topic 10 | Streaming Big Data (Storm) |
+| Topic 7 | [Scalable Web Services and Serverless Computing (nginx, memcached, microservices, Lambdas)](slides/7-web-scale.pdf) |
+| Exam | Exam will be in class, Friday 11/30 - [Practice problems](slides/sample-exam.pdf) |
+| Topic 8 | Emerging Cloud Technologies |
 
 </div>
