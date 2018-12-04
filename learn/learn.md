@@ -26,7 +26,7 @@ If you choose to do a project, then you must *present your project* to the instr
 To record your **Practice progress** you should:
   - Create a [fork of this Git repository](https://github.com/gwdistsys18/dist-sys-practice) to record your progress and notes as you go through the linked materials
   - For each video/lab/tutorial, you must make a short writeup (bullet points or a paragraph) that highlights the key things you learned from the material and add it to your repository
-  	- Your notes **SHOULD NOT** be content copy/pasted from the tutorials/labs. You should be writing notes with your own words. You do not need to record every step you took in your notes, instead your notes should highlight the key points that you learned. You can include 1 or 2 images to show you correctly followed the tutorials, but you do not need to show a screenshot of every step!
+    - Your notes **SHOULD NOT** be content copy/pasted from the tutorials/labs. You should be writing notes with your own words. You do not need to record every step you took in your notes, instead your notes should highlight the key points that you learned. You can include 1 or 2 images to show you correctly followed the tutorials, but you do not need to show a screenshot of every step!
   - Record how much time you spend on each lab or tutorial
   - Each topic ends with a small project to bring together all of the ideas you've learned so far. You must provide a  short writeup about your project that explains what technologies you used and how they interact for the project with diagrams/screenshots.
 
