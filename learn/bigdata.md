@@ -11,7 +11,9 @@ This topic area will teach you about storing and processing large amounts of dat
 > To achieve *Beginner Level* mastery of Big Data you must complete this tutorial:
 
   - [Video: Hadoop Intro](https://www.youtube.com/watch?v=jKCj4BxGTi8&feature=youtu.be) - 15 min
-  - [QwikLab: Analyze Big Data with Hadoop](https://awseducate.qwiklabs.com/focuses/19?parent=catalog) - 45 min
+  - <del>[QwikLab: Analyze Big Data with Hadoop](https://awseducate.qwiklabs.com/focuses/19?parent=catalog) - 45 min</del> (no longer available)
+  - [AWS Tutorial: Analyze Big Data with Hadoop](https://aws.amazon.com/getting-started/projects/analyze-big-data/?trk=gs_card) - 60 min
+
 
 > To achieve *Intermediate Level* mastery of Big Data you must complete the following:
 
@@ -21,7 +23,7 @@ Data Storage:
 
 Big Data Analytics:
   - [Video: Short AWS Machine Learning Overview](https://www.youtube.com/watch?v=soG1B4jMl2s) - 2 min  
-  - [AWS Tutorial: Analyze Big Data with Hadoop](https://aws.amazon.com/getting-started/projects/analyze-big-data/?trk=gs_card) - 60 min
+  - [AWS Tutorial: Analyze Big Data with Hadoop](https://aws.amazon.com/getting-started/projects/analyze-big-data/?trk=gs_card) - 60 min (*Note this is also under the beginner level*)
 
 Machine Learning Models:
   - [QwikLab: Intro to Amazon Machine Learning](https://awseducate.qwiklabs.com/focuses/27?parent=catalog) - 45 min

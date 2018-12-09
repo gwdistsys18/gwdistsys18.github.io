@@ -42,6 +42,6 @@ layout: home
 | Topic 6 | [Ordering, and Consistency  (DynamoDB, Riak)](slides/6-clocks.pdf)  <br> [Clocks Worksheet](slides/clock-worksheet.pdf)|
 | Topic 7 | [Scalable Web Services and Serverless Computing (nginx, memcached, microservices, Lambdas)](slides/7-web-scale.pdf) |
 | Exam | Exam will be in class, Friday 11/30 - [Practice problems](slides/sample-exam.pdf) |
-| Topic 8 | Emerging Cloud Technologies |
+| Topic 8 | [Emerging Cloud Technologies](slides/8-the-end.pdf) |
 
 </div>
